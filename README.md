@@ -1,2 +1,2 @@
 # RockPaperScissors
-Game of Rock, Paper, Scissors on Microsoft Studio
+I programmed a game of Rock, Paper, Scissors using C++ on Microsoft Visual Studio.
